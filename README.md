@@ -12,3 +12,4 @@ A repo for practicing leetcode problems. I try to solve all of these on my own f
 
 [Max Depth of Binary Tree](/trees/104-max-depth-of-bt.js)
 [Min Depth of Binary Tree](/trees/111-min-depth-of-bt.js)
+[Invert Binary Tree](/trees/226-invert-binary-tree.js)
